@@ -1,6 +1,6 @@
 # ABBREVIATION_ENGINE (v2.0)
 
-![ABBREVIATION_ENGINE Interface](path/to/your/screenshot.png) 
+![ABBREVIATION_ENGINE Interface](sample.png) 
 <br/>
 *Above: A tactical overview of the ABBREVIATION_ENGINE terminal interface.*
 
