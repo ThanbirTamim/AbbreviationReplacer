@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AbbreviationReplacer/AbbreviationReplacer.csproj" />
+  <Project Path="AbbreviationReplacerSetup/AbbreviationReplacerSetup.vdproj" Type="Installer" />
+</Solution>

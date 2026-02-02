@@ -1,0 +1,5 @@
+BP=Blood Pressure
+HR=Heart Rate
+ECG=Electrocardiogram
+COPD=Chronic Obstructive Pulmonary Disease
+DM=Diabetes Mellitus
